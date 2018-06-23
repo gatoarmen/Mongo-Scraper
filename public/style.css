@@ -1,0 +1,43 @@
+
+
+h1 {
+
+    font-size: 100px;
+    color: rgb(99, 161, 197);
+    font-weight: 700;
+    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-shadow: 2px 2px #050101;
+}
+
+h3 {
+
+    font-size:  75px;
+    color: rgb(69, 143, 165);
+    font-weight: 700;
+    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-shadow: 2px 2px #050101;
+}
+
+
+.background {
+
+    
+
+
+    background-image: url("./assets/background.jpg");
+    height: 100%;
+
+
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+ 
+
+    
+   
+}
